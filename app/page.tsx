@@ -177,7 +177,7 @@ export default function Home() {
           <Grid container spacing={4} alignItems="center">
             <Grid item xs={12} md={6} sx={{ textAlign: 'center' }}>
               <Avatar
-                src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=2940&auto=format&fit=crop"
+                src="Pic"
                 sx={{ 
                   width: 300, 
                   height: 300, 
